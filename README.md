@@ -1,7 +1,7 @@
 # Digital Ocean DDNS Updater
 This small Docker container will update a subdomain with the current public IP address of the computer / NAT network running the container at an interval of your choosing.
 
-This container uses ifconfig.me as the source of it's IP information.
+This container uses ifconfig.me as the source of its IP information.
 
 ### Usage
 ```bash
